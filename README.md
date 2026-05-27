@@ -42,6 +42,9 @@ Add pricing section
 Add dark/light mode toggle
 Add smooth scrolling effects
 
+live at:
+https://dosunmuolatunde.github.io/landing-page-/
+
 Author
 
 Developed by Dosunmu Olatunde
